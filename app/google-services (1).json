@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971117404429",
+    "firebase_url": "https://hotel-management-87654-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hotel-management-87654",
+    "storage_bucket": "hotel-management-87654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971117404429:android:15f8c1072f994dd448d044",
+        "android_client_info": {
+          "package_name": "com.example.hotelbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971117404429-1035o41f8lga3jvrdcu4ugjucfkbdnvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotelbooking",
+            "certificate_hash": "6ebbe8a78eaa2e7e0a3cecf1c5dfbb330a74de86"
+          }
+        },
+        {
+          "client_id": "971117404429-6f5ir1oacbkage9mg3gcguev40ecv7qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQAX93Ht0gdXhwT40dd_qAi1sL565uKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971117404429-6f5ir1oacbkage9mg3gcguev40ecv7qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
